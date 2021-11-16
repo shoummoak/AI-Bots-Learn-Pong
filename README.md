@@ -6,6 +6,7 @@ AI Bots learn to play a game similar to Atari Pong. The bots are powered by Arti
 * NEAT --> https://www.pygame.org/news
 
 ## Credits
+Note the sound effects are not being used, but may have been once in the past.
 * Hit_01 by LittleRobotSoundFactory   link: https://freesound.org/people/LittleRobotSoundFactory/
 
 * Chiptronical by Patrick De Arteaga   link: https://patrickdearteaga.com/arcade-music/
